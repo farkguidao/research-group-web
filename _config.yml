@@ -1,4 +1,4 @@
-name: Awesome Research Group
+name: ZZU-routting Research Group
 url: http://awesome.example.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -12,7 +12,7 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: Faculty
+    name: Teacher
   - key: staff
     name: Staff
   - key: postdoc
@@ -32,7 +32,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: 'https://farkguidao.github.io/research-group-web'
+# base: 'https://farkguidao.github.io/research-group-web'
 
 # make pages for the _projects folder
 collections:

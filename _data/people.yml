@@ -1,23 +1,23 @@
 
-prof-a:
-    display_name: "Prof A"
-    role: faculty
+# prof-a:
+#     display_name: "Prof A"
+#     role: faculty
 
-prof-b:
-    display_name: "Prof B"
-    role: faculty
+# prof-b:
+#     display_name: "Prof B"
+#     role: faculty
 
-prof-c:
-    display_name: "Prof C"
-    role: faculty
+# prof-c:
+#     display_name: "Prof C"
+#     role: faculty
 
-profx:
-    display_name: "Professor X"
+liuqidong:
+    display_name: "Qidong Liu"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
     github: profx
     role: faculty
     image: /img/people/prof-x.png
-    bio: Professor
+    bio: 刘起东
 
 scott:
     display_name: "Scott Summers"
@@ -32,43 +32,55 @@ wolverine:
     github: wolverine
     role: postdoc
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+# storm:
+#     display_name: "Storm"
+#     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+#     role: grad
+#     image: /img/people/storm.png
 
-grad-a:
-    display_name: "Grad A"
+yaoenguan:
+    display_name: "Enguang Yao"
     role: grad
+    bio: 姚恩广
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+liuchaoyue:
+    display_name: "Chaoyue Liu"
     role: grad
+    bio: 刘超越
 
-grad-c:
-    display_name: "Grad C"
+qiuzixin:
+    display_name: "Zixin Qiu"
     role: grad
+    bio: 邱紫鑫
+gaoxiaofen:
+    display_name: "Xiaofeng Gao"
+    role: grad
+    bio: 高晓峰
 
-grad-d:
-    display_name: "Grad D"
+niushaoyao:
+    display_name: "Shaoyao Niu"
     role: grad
+    bio: 牛绍尧
 
-grad-e:
-    display_name: "Grad E"
+lixiaowen:
+    display_name: "Xiaowen Li"
     role: grad
+    bio: 李晓雯
 
-grad-f:
-    display_name: "Grad F"
+hewenxuan:
+    display_name: "Wenxuan He"
     role: grad
+    bio: 何文轩
 
-grad-g:
-    display_name: "Grad G"
+zhangshilin:
+    display_name: "Shilin Zhang"
     role: grad
+    bio: 张仕林
 
-grad-h:
-    display_name: "Grad H"
+shenxin:
+    display_name: "Xin Shen"
     role: grad
+    bio: 申昕
 
 grad-i:
     display_name: "Grad I"
@@ -132,9 +144,10 @@ collab-e:
     display_name: "Collaborator E"
     role: collab
 
-ugrad-a:
-    display_name: "Ugrad A"
+gaofei:
+    display_name: "Fei Gao"
     role: ugrad
+    bio: 高飞
 
 ugrad-b:
     display_name: "Ugrad Student B With Long Name"
